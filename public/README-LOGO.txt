@@ -1,0 +1,1 @@
+Replace this file with your Jimmy Pickle logo named jimmy-pickle-logo.png, then update the logo path in src/App.jsx if needed. Recommended: transparent PNG or SVG.
